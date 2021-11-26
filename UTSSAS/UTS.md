@@ -8,13 +8,13 @@ Download ISO Installer windows server 2022 menggunakan link di bawah ini terlebi
     ```
 
      Ketika download selesai, kemudian buka virtual box membuat machine  dengan nama Windows Server 2022 kemudian setting version menjadi windows 10 ( 64 bit ) dan  next 
-![A1](aset/p1.jpg)
+![A1](Aset/p1.jpg)
         
     Atur memory dengan size 2048 MB kemudian next 
-![A1](aset/p2.jpg)
+![A1](Aset/p2.jpg)
 
     Buat virtual machine pada hard disk kemudian next 
-![A1](aset/p3.jpg)
+![A1](Aset/p3.jpg)
 
     Buat  Hard disk file type kemudian next
 ![A1](aset/p4.jpg)
