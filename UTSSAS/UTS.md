@@ -8,31 +8,31 @@ Download ISO Installer windows server 2022 menggunakan link di bawah ini terlebi
     ```
 
      Ketika download selesai, kemudian buka virtual box membuat machine  dengan nama Windows Server 2022 kemudian setting version menjadi windows 10 ( 64 bit ) dan  next 
-![A1](aset/p1.jpg)
+![A1](Aset/p1.jpg)
         
     Atur memory dengan size 2048 MB kemudian next 
-![A1](aset/p2.jpg)
+![A1](Aset/p2.jpg)
 
     Buat virtual machine pada hard disk kemudian next 
-![A1](aset/p3.jpg)
+![A1](Aset/p3.jpg)
 
     Buat  Hard disk file type kemudian next
-![A1](aset/p4.jpg)
+![A1](Aset/p4.jpg)
 
     Selanjutnya buat stroge on physical hard disk dan next saja 
-![A1](aset/p5.jpg)
+![A1](Aset/p5.jpg)
 
     Buat File Location and size kemudian next 
-![A1](aset/p6.jpg)
+![A1](Aset/p6.jpg)
 
     Masuk ke > Setting > Network dan ubah Nat menjandi Bridge Adapter lalu ok 
-![A1](aset/p7.jpg)
+![A1](Aset/p7.jpg)
 
     Klik Start kemudia masukan file yang sudah di download tadi 
-![A1](aset/p8.jpg)
+![A1](Aset/p8.jpg)
 
     Kemudian klik next dan install now
-![A1](aset/p9.jpg)
+![A1](Aset/p9.jpg)
 ![A1](aset/p27.jpg)
 
     Pilih Windows Server 2022 Standart (desktop) dan next
